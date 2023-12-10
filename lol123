@@ -1,0 +1,25 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("nawin hub", "Synapse")
+
+local Tab = Window:NewTab("tp pro")
+local Section = Tab:NewSection("TELEPORT")
+
+Section:NewButton("Dark Dex",Dark Dex "", function()
+    getgenv().Key = "Bash"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3AIY%20Dex",true))()
+end)
+
+local Tab = Window:NewTab("tp pro")
+local Section = Tab:NewSection("TELEPORT")
+
+Section:NewButton("TELEPORT", "TELEPORT", function()
+    getgenv().Key = "Bash"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/Refinement/main/MC%3AIY%20Dex",true))()
+end)
+
+local Tab = Window:NewTab("tp pro")
+local Section = Tab:NewSection("TELEPORT")
+
+Section:NewButton("TELEPORT", "TELEPORT", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end)
